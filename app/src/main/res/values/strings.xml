@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Khromenko-v-15</string>
+    <string name="NameRawdiostring1">Радиокнопка</string>
+    <string name="NameRawdiostring2">RadioButton</string>
+    <string name="TVTeaxt">Приветствую</string>
+    <string name="todo">TODO</string>
+</resources>
